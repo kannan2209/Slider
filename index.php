@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="css/colorbox.css" />
 	</head>
 	<body>
-		<h1 style="text-align:center;">Gallery Module</h1>
+		<h1 style="text-align:center; font-weight:bold;">Gallery Module</h1>
 		<?php $images = glob('images/slide/' . "*jpg"); ?>
 		<ul class="bxslider">
 			<?php if(!empty($images)) {
