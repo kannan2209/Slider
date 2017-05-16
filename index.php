@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<title>Gallery module</title>
+		<link rel="icon" href="http://tendersoftware.com/wp-content/uploads/2016/01/favicon.png"/>	
 		<script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
 		<script type="text/javascript" src="js/jquery.bxslider.js"></script>
 		<script type="text/javascript" src="js/jquery.colorbox.js"></script>
